@@ -1,7 +1,6 @@
 # Furkan Yıldız
 
-Computer Science student at Istanbul University (third year). I build tools for people
-who work with AI coding agents, and software that real organisations run.
+Computer Science student at Istanbul University (third year).
 
 ### Open source
 - **[nazar](https://github.com/xfurqan0/nazar)** — a live canvas for Claude Code and Codex
@@ -16,7 +15,6 @@ who work with AI coding agents, and software that real organisations run.
 - **Puantaj** — timesheet and payroll system a municipality runs in pilot for ~190 staff.
   Python / FastAPI · React + TypeScript · Tauri. Customer-owned code; demo on request.
 
-### How I work
-Spec first · parallel agents with a test gate · CI on three operating systems · ship, then iterate.
+
 
 Open to internships and part-time work. yldzfurkann0@gmail.com · [LinkedIn](https://www.linkedin.com/in/furkan-yildiz0s)
